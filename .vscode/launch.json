@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\Chidolue Lawrence\\source\\repos\\_Frontend Mentor .io\\02 produc-preview-card-component\\01 Solution\\product_preview_card_component-5dd591aa0fa50476e5af13c30ad4a11014d09891\\index.html"
+        }
+    ]
+}
